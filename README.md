@@ -4,7 +4,7 @@ favourite_videos allows you to store a list your favourite **Movies** and **TV s
 
 # Quickstart
 
-### Install
+### Imports
     import media
     import fresh_tomatoes
 
