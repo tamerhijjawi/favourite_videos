@@ -19,10 +19,10 @@ Below you will see _code_ that shows you how to create an instance of a Movie or
 	tv_show1 = media.Movie("Name","Description","Image URL","Trailer URL",seasons)
 	tv_show2 = media.Movie("Name","Description","Image URL","Trailer URL", seasons)
 
-	#List of movies to use in HTML creation
+	#List of Movies to use in HTML creation
 	movies = [movie1, movie2]
 
-	#List of movies to use in HTML creation
+	#List of TV-Shows to use in HTML creation
 	tv_shows = [tv_show1, tv_show2]
 
 	#Calling function open_videos_page from fresh_tomatoes module (this is a function created by modifying function open_movies_page)
